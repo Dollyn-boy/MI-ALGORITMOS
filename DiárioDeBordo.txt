@@ -1,0 +1,27 @@
+Introdução:
+    (Problema) Sistema de monitoramento e controle dos casos de Dengue na cidade.
+
+    (Motivação) Permitir avaliação eficaz de medidas de controle através da análise precisa de dados locais.
+
+
+Metodologia:
+
+Resultados:
+
+Conclusão:
+    (Desafios)
+        * Compreender as funcionalidades listadas no primeiro requisito [Info. sobre a doença Dengue/ Info. sobre o sistema]
+            R: Como o programa especifica que a utilização ocorrerá por agentes de vigilância sanitária, a segunda opção
+            faz mais sentido
+
+        * Entender o sistema de leitura de arquivos em python
+
+        * Pensar em alguma estrutura de dados que possa armazenar as informações CSV
+
+        * Pensar na verificação de arquivos e escopo da pasta
+
+    (Ideias)
+        Mapeamento da tabela csv através de uma lista de dicionários
+        * Cada chave é um item do cabecalho
+        * Cada valor é um item das linhas
+
